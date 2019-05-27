@@ -1,1 +1,1 @@
-module github.com/dianabejan/cqrs
+module github.com/bitstored/cqrs
